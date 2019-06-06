@@ -1,0 +1,10 @@
+C:\Users\MS\source\repos\ziarna2\ziarna2\bin\Debug\ziarna2.exe.config
+C:\Users\MS\source\repos\ziarna2\ziarna2\bin\Debug\ziarna2.exe
+C:\Users\MS\source\repos\ziarna2\ziarna2\bin\Debug\ziarna2.pdb
+C:\Users\MS\source\repos\ziarna2\ziarna2\obj\Debug\ziarna2.csprojAssemblyReference.cache
+C:\Users\MS\source\repos\ziarna2\ziarna2\obj\Debug\ziarna2.Form1.resources
+C:\Users\MS\source\repos\ziarna2\ziarna2\obj\Debug\ziarna2.Properties.Resources.resources
+C:\Users\MS\source\repos\ziarna2\ziarna2\obj\Debug\ziarna2.csproj.GenerateResource.cache
+C:\Users\MS\source\repos\ziarna2\ziarna2\obj\Debug\ziarna2.csproj.CoreCompileInputs.cache
+C:\Users\MS\source\repos\ziarna2\ziarna2\obj\Debug\ziarna2.exe
+C:\Users\MS\source\repos\ziarna2\ziarna2\obj\Debug\ziarna2.pdb
