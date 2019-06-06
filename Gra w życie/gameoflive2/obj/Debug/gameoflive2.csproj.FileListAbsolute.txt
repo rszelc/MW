@@ -1,0 +1,10 @@
+C:\Users\MS\source\repos\gameoflive2\gameoflive2\bin\Debug\gameoflive2.exe.config
+C:\Users\MS\source\repos\gameoflive2\gameoflive2\bin\Debug\gameoflive2.exe
+C:\Users\MS\source\repos\gameoflive2\gameoflive2\bin\Debug\gameoflive2.pdb
+C:\Users\MS\source\repos\gameoflive2\gameoflive2\obj\Debug\gameoflive2.csprojAssemblyReference.cache
+C:\Users\MS\source\repos\gameoflive2\gameoflive2\obj\Debug\gameoflive2.Properties.Resources.resources
+C:\Users\MS\source\repos\gameoflive2\gameoflive2\obj\Debug\gameoflive2.csproj.GenerateResource.cache
+C:\Users\MS\source\repos\gameoflive2\gameoflive2\obj\Debug\gameoflive2.csproj.CoreCompileInputs.cache
+C:\Users\MS\source\repos\gameoflive2\gameoflive2\obj\Debug\gameoflive2.exe
+C:\Users\MS\source\repos\gameoflive2\gameoflive2\obj\Debug\gameoflive2.pdb
+C:\Users\MS\source\repos\gameoflive2\gameoflive2\obj\Debug\gameoflive2.Form1.resources
